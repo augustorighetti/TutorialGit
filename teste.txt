@@ -1,6 +1,6 @@
-Primeira linha. 1
+Primeira linha.
 Segunda linha.
-Terceira linha. 3
+Terceira linha.
 Quarta linha.
 Sexta linha.
 Sétima linha.
@@ -8,4 +8,3 @@ Oitava linha.
 Nona linha.
 Décima linha.
 Décima primeira linha.
-Décima segunda linha.
